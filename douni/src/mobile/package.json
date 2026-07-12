@@ -1,0 +1,9 @@
+{
+  "name": "shake-mobile",
+  "version": "0.1.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "react-native-sensors": "^7.3.0"
+  }
+}
